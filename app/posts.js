@@ -42,7 +42,7 @@ export async function generateFeed() {
       link: site_url,
     },
     description: metadata.description,
-    favicon: `${site_url}/skeleton.jpg`,
+    favicon: `${site_url}/favicon.png`,
     feedLinks: { atom: `${site_url}atom.xml`, rss: `${site_url}rss.xml` },
     generator: "Feed for Node.js",
     id: site_url,
