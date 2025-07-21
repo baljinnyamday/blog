@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
             <Activity mode="visible">{children}</Activity>
           </main>
           <footer className="bottom-0 flex flex-col items-center">
-            <p className="text-[13px] text-gray-700 dark:text-gray-300">by overreacted template</p>
+            <p className="text-[13px] text-gray-700 dark:text-gray-300">:)</p>
           </footer>
         </PlausibleProvider>
       </body>
