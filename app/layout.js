@@ -21,11 +21,7 @@ export default function RootLayout({ children }) {
             <span className="relative top-[4px] italic">
               Visit{" "}
               <Link href="https://balj.in" target="_blank">
-                <img
-                  alt="Profile image"
-                  src="/github.png"
-                  className="relative -top-1 mx-1 inline h-8 w-8 rounded-full"
-                />
+                <img alt="Profile" src="/github.png" className="relative -top-1 mx-1 inline h-8 w-8 rounded-full" />
               </Link>
             </span>
           </header>
