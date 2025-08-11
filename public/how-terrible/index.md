@@ -1,16 +1,11 @@
 ---
 title: How Terrible
-date: "2025-08-06"
+date: "2025-08-11"
+spoiler: Today, I realized that, This blog is pretty much public, and easy to find :))
 ---
-
+<img src="https://media.tenor.com/MYZgsN2TDJAAAAAe/this-is.png"/>
+What I wrote here was fire tho, if you did not read it yooooooor loss!
 ---
-
-How terrible it is to ache for the long gone,<br/>
-to drink from silence and call it a song.<br/>
-How terrible it is to fall so hard, <br/>
-to shatter not only bones.<br/>
-how terrific.<br/>
-how human.
 
 ---
 
