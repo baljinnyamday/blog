@@ -3,6 +3,7 @@ import Link from "./Link";
 import HomeLink from "./HomeLink";
 import { serif } from "./fonts";
 import "./global.css";
+import Script from "next/script";
 
 export const metadata = {
   metadataBase: new URL("https://blog.balj.in"),
@@ -35,6 +36,17 @@ export default function RootLayout({ children }) {
             <p className="text-[13px] text-gray-700 dark:text-gray-300">:)</p>
           </footer>
         </PlausibleProvider>
+        <Script src={"https://www.googletagmanager.com/gtag/js?id=G-QPBHENWMLJ"} strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-QPBHENWMLJ', {
+            page_path: window.location.pathname,
+          });
+        `}
+        </Script>
       </body>
     </html>
   );
