@@ -46,7 +46,7 @@ export async function generateFeed() {
     feedLinks: { atom: `${site_url}atom.xml`, rss: `${site_url}rss.xml` },
     generator: "Feed for Node.js",
     id: site_url,
-    image: "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YKqED58AAAAJ&citpid=8",
+    image: "https://cdn.balj.in/baljinnyam.png",
     link: site_url,
     title: metadata.title,
   };
