@@ -53,7 +53,7 @@ export async function generateHomeImage() {
           by
           <img
             alt="Baljinnyamda"
-            src="https://github.com/baljinnyamda.png"
+            src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YKqED58AAAAJ&citpid=8"
             style={{
               height: 120,
               width: 120,
@@ -112,7 +112,7 @@ export async function generatePostImage({ title }) {
           by
           <img
             alt="Baljinnyamda"
-            src="https://github.com/baljinnyamda.png"
+            src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YKqED58AAAAJ&citpid=8"
             style={{
               height: 80,
               width: 80,
