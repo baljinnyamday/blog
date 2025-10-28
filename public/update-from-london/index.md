@@ -18,7 +18,7 @@ London ig.
 ![Random pic 5](https://cdn.balj.in/blog/london/5.jpeg)
 ![Random pic 6](https://cdn.balj.in/blog/london/6.jpeg)
 ![Random pic 7](https://cdn.balj.in/blog/london/7.jpeg)
-End bi tugsultuu hiine, Mongolru hurdan ochmoor l baina, bolno do hu :), odoohondo bol bas jaahan amargui l baina. (Royal Albert Hall - manai suriig baiguulsan hun)
+End bi tugsultuu hiine, Mongolru hurdan ochmoor l baina, bolno do hu :), odoohondo bol bas jaahan amargui l baina. (Royal Albert Hall)
 ![Random pic 8](https://cdn.balj.in/blog/london/8.jpeg)
 ![Random pic 9](https://cdn.balj.in/blog/london/9.jpeg)
 ![Random pic 10](https://cdn.balj.in/blog/london/10.jpeg)
